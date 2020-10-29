@@ -11,9 +11,6 @@ body {
   font-size: 1.4rem;
   color: #181818;
   background: #ccc;
-  display: flex;
-  flex-flow: column;
-  align-items: center;
 }
 
 /* 스킵 네비게이션 */
@@ -28,6 +25,7 @@ body {
 .main,
 .slogan {
   width: 940px;
+  margin: auto;
 }
 
 .header {
