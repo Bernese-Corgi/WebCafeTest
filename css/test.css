@@ -52,6 +52,7 @@ body {
 .main {
   background-color: #dfcbad;
   /* padding: 30px 0; */
+  height: 400px;
 }
 
 .group1,
